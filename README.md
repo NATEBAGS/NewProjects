@@ -13,7 +13,7 @@
 * Contributed to a spend management software project for iOS devices, below are the things that I built for the project:
   - Created ways for users to sign in (email/password or Google) and have their data attached to their user profile
   - Implemented a way to crop images and zoom in/out of images
-  - Built a way extract the text using OCR and then created regex paarsing rules to parse the date, store name, and totals from reciepts
+  - Built a way extract the text using OCR and then created regex parsing rules to parse the date, store name, and totals from reciepts
   - Built and labeled a dataset and trained a multinomial logistic regression classifier on it to classify whether items were truly items or not
   - Currently familiarizing myself with Solidity to implment a way to write the receipt data to a smart contract on the blockchain
 ## C Project
